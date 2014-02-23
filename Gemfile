@@ -47,3 +47,7 @@ end
 # Twitter bootstrap
 gem "less-rails"
 gem "twitter-bootstrap-rails"
+
+# omniauth
+gem 'omniauth-twitter'
+gem 'omniauth-facebook'
